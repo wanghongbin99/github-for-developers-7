@@ -3,3 +3,4 @@
 -movie
 -blue
 -singapore
+-china
