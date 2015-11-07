@@ -2,3 +2,4 @@
 -noodle
 -movie
 -blue
+-singapore
